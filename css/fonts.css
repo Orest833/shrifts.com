@@ -1,0 +1,24 @@
+charset="utf-8">
+@font-face {
+    font-family: "Badler";
+  
+    src: url('/fonts/Badler.ttf');
+  }
+  
+  @font-face {
+    font-family: "Ragerdo";
+  
+    src: url('/fonts/Ragerdo Regular.ttf');
+  }
+
+
+
+  body {
+    font-family: Ragerdo, sans-serif;
+    font-size: 30px;
+  }
+  h1 {
+    font-family: "Badler";
+    font-size: 100px;
+  
+  }
